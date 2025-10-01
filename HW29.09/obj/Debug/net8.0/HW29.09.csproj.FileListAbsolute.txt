@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\HW29.09\HW29.09\bin\Debug\net8.0\HW29.09.exe
+C:\Users\Acer\source\repos\HW29.09\HW29.09\bin\Debug\net8.0\HW29.09.deps.json
+C:\Users\Acer\source\repos\HW29.09\HW29.09\bin\Debug\net8.0\HW29.09.runtimeconfig.json
+C:\Users\Acer\source\repos\HW29.09\HW29.09\bin\Debug\net8.0\HW29.09.dll
+C:\Users\Acer\source\repos\HW29.09\HW29.09\bin\Debug\net8.0\HW29.09.pdb
+C:\Users\Acer\source\repos\HW29.09\HW29.09\obj\Debug\net8.0\HW29.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\HW29.09\HW29.09\obj\Debug\net8.0\HW29.09.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\HW29.09\HW29.09\obj\Debug\net8.0\HW29.09.AssemblyInfo.cs
+C:\Users\Acer\source\repos\HW29.09\HW29.09\obj\Debug\net8.0\HW29.09.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\HW29.09\HW29.09\obj\Debug\net8.0\HW29.09.dll
+C:\Users\Acer\source\repos\HW29.09\HW29.09\obj\Debug\net8.0\refint\HW29.09.dll
+C:\Users\Acer\source\repos\HW29.09\HW29.09\obj\Debug\net8.0\HW29.09.pdb
+C:\Users\Acer\source\repos\HW29.09\HW29.09\obj\Debug\net8.0\HW29.09.genruntimeconfig.cache
+C:\Users\Acer\source\repos\HW29.09\HW29.09\obj\Debug\net8.0\ref\HW29.09.dll
