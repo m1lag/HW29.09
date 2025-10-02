@@ -8,3 +8,4 @@ FROM mcr.microsoft.com/dotnet/runtime:8.0 AS runtime
 WORKDIR /app
 COPY --from=build /app/out ./
 ENTRYPOINT ["dotnet", "HW29.09.dll"]
+EXPOSE 12345
