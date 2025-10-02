@@ -6,3 +6,5 @@ services:
     branch: main
     dockerfilePath: Dockerfile
     autoDeploy: true
+    ports:
+      - 12345
